@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/425df507b6c04c301faef719046e92b859c274f9ed80ab45f78838459fcbfa63/68747470733a2f2f74342e667463646e2e6e65742f6a70672f30322f37382f33372f34372f3336305f465f3237383337343733385f7970526e3075744f566e656275686d7053724469776b7a46736471456d3061612e6a7067)]
+[![MasterHead]https://camo.githubusercontent.com/425df507b6c04c301faef719046e92b859c274f9ed80ab45f78838459fcbfa63/68747470733a2f2f74342e667463646e2e6e65742f6a70672f30322f37382f33372f34372f3336305f465f3237383337343733385f7970526e3075744f566e656275686d7053724469776b7a46736471456d3061612e6a7067]
 <h1 align="center">Hi 👋, I'm Arpan Chakraborty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="360px" height="180px" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
@@ -14,6 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=github-arpan&show_icons=true&locale=en&layout=compact" alt="github-arpan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=github-arpan&show_icons=true&locale=en" alt="github-arpan" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=github-arpan&show_icons=true&locale=en" alt="github-arpan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=github-arpan&" alt="github-arpan" /></p>
